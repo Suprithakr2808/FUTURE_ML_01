@@ -19,4 +19,4 @@ This project uses Machine Learning and NLP techniques to classify customer suppo
    pip install -r requirements.txt
 
 2. Run the application:
-   python ui.py
+   python -m streamlit run ui.py
